@@ -1,0 +1,16 @@
+**For Developers**
+1. Download apache tomcat https://tomcat.apache.org/download-10.cgi
+2. Unzip tomcat 
+3. Add configuration in IDE
+![image-20220707125444064](readme.assets\image-20220707125444064.png)
+4. Fix configuration choose Fix
+
+![image-20220707125859480](readme.assets\image-20220707125859480.png)
+
+5. Select simple-mvc-app:war exploded
+
+![image-20220707125920884](readme.assets\image-20220707125920884.png)
+
+6. Remove Application context
+
+![image-20220707125955732](readme.assets\image-20220707125955732.png)
