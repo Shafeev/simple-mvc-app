@@ -1,5 +1,5 @@
 **For Developers**
-1. Download apache tomcat https://tomcat.apache.org/download-10.cgi
+1. Download apache tomcat https://archive.apache.org/dist/tomcat/tomcat-9/v9.0.29/
 2. Unzip tomcat 
 3. Add configuration in IDE
 ![image-20220707125444064](readme.assets\image-20220707125444064.png)
