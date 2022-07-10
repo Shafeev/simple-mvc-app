@@ -14,3 +14,5 @@
 6. Remove Application context
 
 ![image-20220707125955732](https://github.com/Shafeev/simple-mvc-app/raw/master/readme.assets/image-20220707125955732.png)
+
+install portable PostgreSQL: https://github.com/malexple/postgresql-portable
